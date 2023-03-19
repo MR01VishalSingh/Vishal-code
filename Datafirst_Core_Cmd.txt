@@ -1,0 +1,1 @@
+Scaffold-DbContext "Server=CHETUIWK1702\SQLSERVER2019;Database=ChetuMVC;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DB_Conn
